@@ -1,2 +1,2 @@
 #!/bin/bash
-rm , * (all), ~ (files with symbol)
+rm  * (all) ~ (files with symbol)
